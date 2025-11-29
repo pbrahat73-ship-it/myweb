@@ -1,0 +1,5 @@
+{
+  "name": "TechFlow CMS",
+  "description": "A modern, AI-powered blogging platform tailored for technology topics. Features a simulated backend with a full admin dashboard, rich content management, and Gemini-powered AI writing assistance.",
+  "requestFramePermissions": []
+}
